@@ -1,4 +1,4 @@
-# opp-cat-1[student . rec.java](https://github.com/user-attachments/files/25451090/student.rec.java)
+# oop-cat-1[student . rec.java](https://github.com/user-attachments/files/25451090/student.rec.java)
 import java.util.Scanner;
 
 // i) Create a class named StudentRecord
